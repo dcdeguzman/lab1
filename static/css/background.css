@@ -1,4 +1,5 @@
 body{
-    background-image: url("gif.gif");
-
+  background-image: url("images/m.jpg");
+  background-size: cover;
+  background-position: center;
   }  
