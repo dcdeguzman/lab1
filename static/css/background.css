@@ -1,5 +1,6 @@
 body{
   background-image: url("images/m.jpg");
-  background-size: cover;
+  background-size: auto;
   background-position: center;
+  background-attachment: fixed;
   }  
