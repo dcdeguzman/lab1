@@ -45,8 +45,6 @@ html {
 
 body {
   margin: 0;
-  background-image: url(gif.gif);
-
 }
 
 a {
@@ -309,7 +307,7 @@ body {
   font-size: 14px;
   line-height: 1.428571429;
   color: #333333;
-  background-color: #ffffff;
+  background-image: url("gif.gif");
 }
 
 input,
