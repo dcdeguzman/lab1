@@ -4,8 +4,8 @@ body{
   background-position: center;
   background-attachment: fixed;
   }
-h6{
-  size: 100px, 100px, 100px, 100px;
+h1{
+/** size: 100px, 100px, 100px, 100px;**/
   position: absolute;
   border-color: red;
 }
